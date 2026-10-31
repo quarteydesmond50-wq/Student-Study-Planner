@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Jbrains.Tech Student Study Planner
 
 A responsive study-task list for organizing assignments by subject or course. Tasks are stored in the browser's local storage.
@@ -42,3 +43,6 @@ The laptop and other device must be on the same trusted Wi-Fi network. The serve
 - `script.js` – navigation, task actions, overview, insights, timer, and browser local storage
 - `server.py` – local web server
 - `jbrains-tech-logo.jpeg` – Jbrains.Tech logo
+=======
+# Student-Study-Planner
+>>>>>>> 9340c63d628ffdb0e7e4d0a7dac232af6a223d19
